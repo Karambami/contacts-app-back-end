@@ -10,9 +10,6 @@ To develop this app we have used the following programming elements:
 
 
 ```py
-import json
-
-contacts = []
 
 def AddContact():
     name = input("Enter name: ")
