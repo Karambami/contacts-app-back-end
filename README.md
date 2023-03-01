@@ -1,6 +1,6 @@
 # Contacts app developed with Python
 
-This is a simple contact management app written in Phyton programming language.
+This is a simple **contact management app** written in Phyton programming language.
 
 To develop this app we have used the following programming elements:
 
@@ -10,7 +10,6 @@ To develop this app we have used the following programming elements:
 
 
 ```py
-
 def AddContact():
     name = input("Enter name: ")
     surname = input("Enter surname: ")
@@ -25,3 +24,4 @@ def AddContact():
     }
 
     contacts.append(contact)
+    ```
